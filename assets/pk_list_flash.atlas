@@ -1,0 +1,62 @@
+
+pk_list_flash.png
+size: 1869,1085
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm01
+  rotate: false
+  xy: 1362, 2
+  size: 206, 208
+  orig: 206, 208
+  offset: 0, 0
+  index: -1
+arm02
+  rotate: true
+  xy: 1736, 6
+  size: 204, 131
+  orig: 204, 131
+  offset: 0, 0
+  index: -1
+bg01
+  rotate: false
+  xy: 2, 212
+  size: 1858, 871
+  orig: 1858, 871
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 830, 13
+  size: 263, 197
+  orig: 263, 197
+  offset: 0, 0
+  index: -1
+head01
+  rotate: false
+  xy: 1095, 15
+  size: 265, 195
+  orig: 265, 195
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 2, 99
+  size: 826, 111
+  orig: 826, 111
+  offset: 0, 0
+  index: -1
+student01
+  rotate: false
+  xy: 1570, 46
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 21
+  size: 686, 76
+  orig: 686, 76
+  offset: 0, 0
+  index: -1
